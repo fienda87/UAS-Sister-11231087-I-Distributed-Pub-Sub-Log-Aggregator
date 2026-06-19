@@ -1,0 +1,7 @@
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+pythonpath = ["."]
+
+[project]
+name = "uas-risky-reliable-event-log-aggregator"
+version = "0.1.0"
