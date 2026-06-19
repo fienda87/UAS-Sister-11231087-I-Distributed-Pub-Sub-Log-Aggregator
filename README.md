@@ -1,16 +1,17 @@
 # UAS Sistem Terdistribusi — Reliable Event Log Aggregator
-
+Nama: Risky Alfienda
+NIM: 11231087
 Stack: **Python (FastAPI + asyncio)** + **Postgres**. Dedup kuat via **UNIQUE(topic,event_id)**, concurrency control via **SELECT … FOR UPDATE SKIP LOCKED**.
 
 
 ## Link Video Youtube
 ```
-TODO: isi dengan link video demo Risky setelah rekaman selesai
+https://www.youtube.com/watch?v=4krL_np0mH0
 ```
 
 ## Link Drive Laporan
 ```
-TODO: isi dengan link laporan Risky setelah PDF final dibuat
+https://drive.google.com/file/d/1cl0DrieA1jnwta9N6jYWnRFMGlDlAtTn/view?usp=sharing
 ```
 
 ## Jalankan
